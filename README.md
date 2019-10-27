@@ -2,7 +2,7 @@
 
 Repository includes code & output for:
 
-1. Build Markov Chain State-Space model from scratch in Python
+1. Build simple Markov Chain State-Space model from scratch in Python
 
 2. Using ChannelAttribution R package: Build simple heuristic & probabilistic models
     1. First Click / first_touch (Heuristic Model) 
