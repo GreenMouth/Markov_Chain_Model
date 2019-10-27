@@ -22,6 +22,7 @@ Refer:
 https://analyzecore.com/Notes
 http://setosa.io/ev/markov-chains/
 https://www.r-bloggers.com/attribution-model-with-r-part-1-markov-chains-concept/
+https://analyzecore.com/2016/08/03/attribution-model-r-part-1/
 https://analyzecore.com/2017/05/31/marketing-multi-channel-attribution-model-r-part-2-practical-issues/
 
 Package Specifications:
