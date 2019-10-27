@@ -11,7 +11,8 @@ Repository includes code & output for:
 
 
 
-What is a Heuristic Models?
+What is a Heuristic Model?
+
 Some problems are hard and you may not be able to get an acceptable solution in an acceptable time. In such cases you often can get a not too bad solution much faster, by applying some arbitrary choices (educated guesses): that's a heuristic.
 A heuristic is still a kind of an algorithm, but one that will not explore all possible states of the problem, or will begin by exploring the most likely ones.
 Typical examples are from games. When writing a chess game program you could imagine trying every possible move at some depth level and applying some evaluation function to the board. A heuristic would exclude full branches that begin with obviously bad moves.
