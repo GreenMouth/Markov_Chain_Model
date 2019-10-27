@@ -1,3 +1,5 @@
+#Author: Prashant Shinde
+
 Repository includes code & output for:
 
 1. Build Markov Chain State-Space model from scratch in Python
