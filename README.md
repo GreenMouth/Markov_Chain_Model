@@ -19,4 +19,7 @@ Typical examples are from games. When writing a chess game program you could ima
 In some cases you're not searching for the best solution, but for any solution fitting some constraint. A good heuristic would help to find a solution in a short time, but may also fail to find any if the only solutions are in the states it chose not to try.
 
 Refer:
-https://analyzecore.com/
+https://analyzecore.com/Notes:
+
+Notes:
+Alternative to 'Markov Chain state-space' model is 'Shapley value' model
