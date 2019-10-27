@@ -19,7 +19,13 @@ Typical examples are from games. When writing a chess game program you could ima
 In some cases you're not searching for the best solution, but for any solution fitting some constraint. A good heuristic would help to find a solution in a short time, but may also fail to find any if the only solutions are in the states it chose not to try.
 
 Refer:
-https://analyzecore.com/Notes:
+https://analyzecore.com/Notes
+http://setosa.io/ev/markov-chains/
+https://www.r-bloggers.com/attribution-model-with-r-part-1-markov-chains-concept/
+https://analyzecore.com/2017/05/31/marketing-multi-channel-attribution-model-r-part-2-practical-issues/
+
+Package Specifications:
+https://cran.r-project.org/web/packages/ChannelAttribution/ChannelAttribution.pdf
 
 Notes:
 Alternative to 'Markov Chain state-space' model is 'Shapley value' model
