@@ -33,3 +33,6 @@ https://cran.r-project.org/web/packages/ChannelAttribution/ChannelAttribution.pd
 
 Notes:
 Alternative to 'Markov Chain state-space' model is 'Shapley value' model
+
+http://datafeedtoolbox.com/attribution-theory-the-two-best-models-for-algorithmic-marketing-attribution-implemented-in-apache-spark-and-r/
+https://clearcode.cc/blog/game-theory-attribution/
